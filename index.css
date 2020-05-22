@@ -1,0 +1,66 @@
+body{
+    margin: 0px;
+    padding:0px;
+    overflow-x: hidden;
+    width: 100%;
+}
+#Facebook
+ 	{
+ 		width: 100%;
+ 		background:#1b1ef2;
+ 		height: 40px;
+
+ 	}
+#Google
+{
+ 	width: 100%;
+ 	background: #f55653;
+ 	height: 40px;
+ 	margin-top: 10px;
+
+ }
+ #Twitter
+ {
+ 	width: 100%;
+ 	background: lightblue;
+ 	height: 40px;
+ 	margin-top:10px; 
+ }
+ i
+ {
+ 	float: left;
+ 	padding-top: 5px;
+  }
+#image-carousel img
+{
+    height: 50%;
+}
+#slider
+{
+    height:100%;
+}
+.newsletter
+{
+    background-color:#1cc7ad;
+    height: 100px;
+}
+#mail
+{
+    border-radius: 50%;
+    width: 30%;
+    height: 70px;
+    align-items: center;
+    
+}
+.box
+{
+    width: 100px;
+    height: 100px;
+    display: flex;
+    flex-direction: row;
+    margin:5px 0px 0px 5px;
+    justify-content: space-around;
+    flex-flow: wrap;
+    float: left;
+    background-color: blueviolet;
+}
